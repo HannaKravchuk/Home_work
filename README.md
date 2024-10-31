@@ -1,6 +1,14 @@
-# Git commands: 
+# My first work with GIT! 
 
+## first git command:
+- git log
 - git config
-- git status
 - git init
-- git add
+- git clone
+- git commit
+- git branch
+- git checkout
+- git push
+- git pull
+- git diff
+- git status
